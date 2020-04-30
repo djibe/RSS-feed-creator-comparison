@@ -23,7 +23,7 @@ Only these HTML to RSS creator tools are still active in **2020**.
 | [feedocean](https://feedocean.com/pricing) |       $3.68 |       300 |         25 |              3 | No                |            ? |
 | [feedocean](https://feedocean.com/pricing) |       $5.49 |      1000 |         25 |              3 | No                |            ? |
 | [feedocean](https://feedocean.com/pricing) |       $5.49 | Unlimited |         25 |              3 | No                |            ? |
-| FetchRSS  |           X |         X |          X |              X | X                 |             |
+| **FetchRSS**  |           X |         X |          X |              X | X                 |             |
 | [Politepol](https://politepol.com/en/prices) |       Free | 20 |         ? |              2 | No                |            Very limited config |
 | [Politepol](https://politepol.com/en/prices) |       $5 | 50 |         ? |              2 | No                |            ? |
 | [Politepol](https://politepol.com/en/prices) |       $20 | 250 |         ? |              2 | No                |            ? |
@@ -33,9 +33,9 @@ Only these HTML to RSS creator tools are still active in **2020**.
 | [RSS.app](https://rss.app/plans) |       $4.99 | 5 |         15 |              2 | Facebook, Twitter, Instagram                |          Only efficient for social networks |
 | [RSS.app](https://rss.app/plans) |       $9.99 | 40 |         25 |              2 | Facebook, Twitter, Instagram                |            Only efficient for social networks |
 | [RSS.app](https://rss.app/plans) |       $19.99 | 100 |         50 |              2 | Facebook, Twitter, Instagram                |            Only efficient for social networks |
-| [TwitRSS.me](http://www.twitrss.me/) |       Free | Unlimited |         20 |              4 | Twitter                |            Only Twitter but does it well. Get feed URL from RSS xml |
+| [**RSSHub**](https://docs.rsshub.app/en/) |       Free | Unlimited |         20 |              4 | Twitter                |            Any source but I tested only Twitter. |
+| [**TwitRSS.me**](http://www.twitrss.me/) |       Free | Unlimited |         20 |              4 | Twitter                |            Only Twitter but does it well. |
 
 Others : WebRSS, Feed Creator http://createfeed.fivefilters.org/, https://distill.io/apps/web-monitor, http://www.freerssgenerator.com/
 
 Keywords : RSS, feed, xml, generator, editor, monitoring, creator, RSS Feeds, webpage to RSS Feed, RSS any site
-
