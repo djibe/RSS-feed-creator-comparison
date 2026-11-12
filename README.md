@@ -29,6 +29,11 @@ Only these HTML to RSS creator tools are still active in **2022**.
 | [RSS.app](https://rss.app/plans) |       $19.99 | 100 |         50 |              2 | Facebook, Twitter, Instagram                |            Only efficient for social networks |
 | [**RSSHub**](https://docs.rsshub.app/en/) |       Free | Unlimited |         20 |              4 | Twitter                |            Any source but I tested only Twitter. |
 | [**TwitRSS.me**](http://www.twitrss.me/) |       Free | Unlimited |         20 |              4 | Twitter                |            Only Twitter but does it well. |
+| [RSSFlux](https://rssflux.io/pricing) | Free | 3 | 10 | 4 | Reddit, YouTube, Rumble, X, Telegram, Facebook Reels | Hosted only; 12-hour refresh; no Instagram, Facebook groups, or newsletter-to-RSS |
+| [RSSFlux](https://rssflux.io/pricing) | $8 | 20 | 20 | 4 | Reddit, YouTube, Rumble, X, Telegram, Facebook Reels | Hosted only; 45-minute refresh; no Instagram, Facebook groups, or newsletter-to-RSS |
+| [RSSFlux](https://rssflux.io/pricing) | $13 | 20 | 20 | 4 | Reddit, YouTube, Rumble, X, Telegram, Facebook Reels | Hosted only; 45-minute refresh; API included (30 req/min); no Instagram, Facebook groups, or newsletter-to-RSS |
+| [RSSFlux](https://rssflux.io/pricing) | $19 | 120 | 50 | 4 | Reddit, YouTube, Rumble, X, Telegram, Facebook Reels | Hosted only; 15-minute refresh; premium proxies; no Instagram, Facebook groups, or newsletter-to-RSS |
+| [RSSFlux](https://rssflux.io/pricing) | $80 | 500 | 100 | 4 | Reddit, YouTube, Rumble, X, Telegram, Facebook Reels | Hosted only; 15-minute refresh; dedicated infrastructure; no Instagram, Facebook groups, or newsletter-to-RSS |
 
 Others : WebRSS, Feed Creator http://createfeed.fivefilters.org/, https://distill.io/apps/web-monitor, http://www.freerssgenerator.com/, Zapier (Facebook, Twitter to RSS), Wachete
 
